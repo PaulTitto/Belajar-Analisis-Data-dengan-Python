@@ -2,7 +2,6 @@
 
 ## Setup Environment - Shell/Terminal
 ```
-mkdir proyek_analisis_data
 cd Belajar-Analisis-Data-dengan-Python
 pipenv install
 pipenv shell
